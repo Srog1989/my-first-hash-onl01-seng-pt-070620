@@ -13,7 +13,7 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-hash[oil paintings 3]
+hash["oil paintings"]
 end
 
 def adding
